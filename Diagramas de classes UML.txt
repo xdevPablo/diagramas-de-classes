@@ -1,0 +1,1 @@
+Diagramas de classes UML representando cenários de modelagem orientada a objetos, com foco em herança, associações e regras de negócio.
